@@ -11,7 +11,10 @@
 <br />
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,idea,spring,mysql,hibernate,html,css&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,idea,spring,mysql,hibernate&theme=dark)](https://skillicons.dev) 
+<br />
+<img src="https://miro.medium.com/v2/resize:fit:1000/0*2YKMGT_H6d3fl14L.png" alt="Thymeleaf logo" width="50" height="50">
+[![My Skills](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Daniel-ski&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-ski&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
