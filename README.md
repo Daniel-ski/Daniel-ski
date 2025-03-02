@@ -3,7 +3,7 @@
 
 - 👀 I am highly motivated and positive person with tech passion
 - <img width="25" src="https://user-images.githubusercontent.com/112943652/204318265-aedf0143-ba28-4e3f-829a-df3817ea5172.png"> I also love to do sports and travel
-- 🌱 I’m currently learning Java Web Dev
+- 🌱 I’m currently Junior Java Web Dev
 - 💻 I'm learning new things every day and I have no intention of stopping
 
 
