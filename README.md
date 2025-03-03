@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fuzzy+Bubbles&size=20&pause=200&color=aef50b&background=79797900&center=true&multiline=true&width=435&lines=Hi+there!+%F0%9F%91%8B+My+name+is+Daniel+Ivanov.;I'm+Java+student+and+enthusiast!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fuzzy+Bubbles&size=20&pause=200&color=aef50b&background=79797900&center=true&multiline=true&width=435&lines=Hi+there!+%F0%9F%91%8B+My+name+is+Daniel+Ivanov.;I'm+Junior+Java+Dev+and+enthusiast!)](https://git.io/typing-svg)
 <br />
 
 - 👀 I am highly motivated and positive person with tech passion
